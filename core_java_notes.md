@@ -159,17 +159,6 @@ class Cat implements Animal {
     }
 }
 ```
-
-# **3. Java Collections Framework (JCF)**
-
-[Detailed collection framework explanation remains unchanged]
-
-# **4. Advanced Topics**
-
-[Advanced topics remain unchanged]
-
-🚀 **Happy Coding!**
-
 # **Java Collections Framework (JCF)**
 The Java Collections Framework (JCF) is a **hierarchical architecture** for handling a group of objects efficiently. It provides several interfaces and classes to store, manipulate, and retrieve data.
 
